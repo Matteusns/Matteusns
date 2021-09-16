@@ -6,4 +6,4 @@
 - 🔭 I’m currently working an company **Bluemap**
 - 🌱 I’m currently learning **Node.js, MongoDB **
 - 📫 How to reach me: [mateusnsousa@hotmail.com](mateusnsousa@hotmail.com) at E-mail
-- 🧐 Fun fact: I realy like to skateboarding(Even though I'm not so good at it 😂)
+- 🧐 Fun fact: I realy like to skateboarding (Even though I'm not so good at it 😂)
