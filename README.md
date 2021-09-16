@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working an company **Bluemap**
 - 🌱 I’m currently learning **Node.js, MongoDB **
-- 📫 How to reach me: [mateusnsousa@hotmail.com](mateusnsousa@hotmail.com) at E-mail
+- 📫 How to reach me: <a href="mailto:mateusnsousa@hotmail.com">mateusnsousa@hotmail.com</a> at E-mail
 - 🧐 Fun fact: I realy like to skateboarding (Even though I'm not so good at it 😂)
